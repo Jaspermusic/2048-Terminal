@@ -28,7 +28,7 @@ def start_screen():
 	
 
     time.sleep(0.2)
-    print("\x1B[3m" + "Designed by Jasper" + "\x1B[0m" + "\n")
+    print("\x1B[3m" + "Designed by Demouse" + "\x1B[0m" + "\n")
     time.sleep(0.2)
 
     print("Loading", end="")
